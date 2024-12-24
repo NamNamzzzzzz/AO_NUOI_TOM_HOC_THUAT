@@ -70,5 +70,5 @@ Hệ thống giúp giám sát và điều khiển thiết bị trong ao nuôi th
 ![Ứng dụng MIT App Inventor](ao_nuoi_app.jpg)
 
 ### 2. Mô hình Ao Nuôi Tôm:
-![Mô hình Ao Nuôi Tôm](ao_nuoi.jpg)
+![Mô hình Ao Nuôi Tôm](IMG_3375.jpg)
 
